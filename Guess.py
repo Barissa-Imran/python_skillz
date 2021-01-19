@@ -13,9 +13,13 @@ def guessing(guess):
         if guess == num:
             print(f"correct, {guess} is the right answer")
             break
-        else:
+        elif guess < num:
+            print("Your guess is lower than the number")
             guess = int(input("guess again: "))
             continue
-
+        elif guess > num:
+            print("your guess is greater than the number")
+            guess = int(input("guess again: "))
+            continue
 
 guessing(guess)
