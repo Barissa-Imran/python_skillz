@@ -1,4 +1,4 @@
-<h1> python_skillz</h1>
+<h1> 🐍python_skillz</h1>
 <h2>100_Days_of_Code</h2>
 <p1>For my Hundred_Days_of_Code: I have pledged to commit atleast one python project in this repository.
 This will greatly help me enhance my skills as a software engineer.
